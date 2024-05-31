@@ -1,7 +1,7 @@
 function cookSteak(steakWeight, desiredDoneness) {
     let grillTemperature = 0;
     let steakTemperature = 0;
-    
+    //Imperative Programming Paradigm
     // Step 1: Preheat the grill
     grillTemperature = 204; 
     

@@ -1,7 +1,7 @@
 function cookSteak(steakWeight, desiredDoneness) {
     const grillTemperatureCelsius = 204; 
     const seasoning = 'Salt and Pepper';
-  
+    // Declarative Programming Paradigm
     // Define the cooking process
     const cookingProcess = [
       { action: 'Preheat grill', temperature: grillTemperatureCelsius },
